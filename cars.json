@@ -29,7 +29,7 @@
         "accX ": 2.4,
         "accY": 2.4,
         "speed ": 30.0,
-        "color": "#333EFF";
+        "color": "#333EFF"
     },
     "vehicle_2": {
         "length": 2.4,
