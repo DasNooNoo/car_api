@@ -13,7 +13,7 @@
         "accX ": 2.4,
         "accY": 2.4,
         "speed ": 30.0,
-        "color": [0.5, 0.5, 0.5, 1]
+        "color": "#DAF7A6"
     },
     "vehicle_1": {
         "length": 2.4,
@@ -29,7 +29,7 @@
         "accX ": 2.4,
         "accY": 2.4,
         "speed ": 30.0,
-        "color": [1, 0, 0, 1]
+        "color": "#333EFF";
     },
     "vehicle_2": {
         "length": 2.4,
@@ -45,7 +45,7 @@
         "accX ": 2.4,
         "accY": 2.4,
         "speed ": 30.0,
-        "color": [0, 1, 0, 1]
+        "color": "#C70039"
     }
 
 }
