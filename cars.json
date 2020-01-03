@@ -1,6 +1,7 @@
 [
 
     {
+        "id": 0,
         "length": 2.4,
         "width": 1.5,
         "posX": 2.4,
@@ -17,6 +18,7 @@
         "color": "#DAF7A6"
     },
      {
+         "id":1,
         "length": 2.4,
         "width": 1.5,
         "posX": 2.4,
@@ -33,6 +35,7 @@
         "color": "#333EFF"
     },
     {
+        "id":2,
         "length": 2.4,
         "width": 1.5,
         "posX": 2.4,
